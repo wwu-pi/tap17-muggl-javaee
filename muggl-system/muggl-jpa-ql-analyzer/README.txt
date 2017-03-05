@@ -1,0 +1,1 @@
+This project requires the Hibernate SQM project: https://github.com/hibernate/hibernate-semantic-query
